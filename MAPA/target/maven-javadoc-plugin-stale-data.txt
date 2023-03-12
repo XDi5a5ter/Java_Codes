@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'15'
+-sourcepath
+'C:/JavaScripts/MAPA/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/JavaScripts/MAPA/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MAPA 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/15/docs/api' 'C:/JavaScripts/MAPA/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'MAPA 1.0-SNAPSHOT API'
+MAPA
+'C:/JavaScripts/MAPA/src/main/java/MAPA/Mapa.java'
+C:\JavaScripts\MAPA\src\main\java = 1662829154777
+C:\JavaScripts\MAPA\target\site\apidocs\allclasses-index.html = 1662830110119
+C:\JavaScripts\MAPA\target\site\apidocs\allpackages-index.html = 1662830110123
+C:\JavaScripts\MAPA\target\site\apidocs\constant-values.html = 1662830110056
+C:\JavaScripts\MAPA\target\site\apidocs\deprecated-list.html = 1662830110083
+C:\JavaScripts\MAPA\target\site\apidocs\element-list = 1662830110027
+C:\JavaScripts\MAPA\target\site\apidocs\help-doc.html = 1662830110134
+C:\JavaScripts\MAPA\target\site\apidocs\index-all.html = 1662830110103
+C:\JavaScripts\MAPA\target\site\apidocs\index.html = 1662830110127
+C:\JavaScripts\MAPA\target\site\apidocs\jquery-ui.overrides.css = 1662830110183
+C:\JavaScripts\MAPA\target\site\apidocs\member-search-index.js = 1662830110103
+C:\JavaScripts\MAPA\target\site\apidocs\module-search-index.js = 1662830110103
+C:\JavaScripts\MAPA\target\site\apidocs\overview-tree.html = 1662830110063
+C:\JavaScripts\MAPA\target\site\apidocs\package-search-index.js = 1662830110103
+C:\JavaScripts\MAPA\target\site\apidocs\script.js = 1662830110141
+C:\JavaScripts\MAPA\target\site\apidocs\search.js = 1662830110146
+C:\JavaScripts\MAPA\target\site\apidocs\stylesheet.css = 1662830110139
+C:\JavaScripts\MAPA\target\site\apidocs\tag-search-index.js = 1662830110103
+C:\JavaScripts\MAPA\target\site\apidocs\type-search-index.js = 1662830110103
